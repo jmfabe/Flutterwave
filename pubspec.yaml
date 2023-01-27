@@ -12,8 +12,7 @@ dependencies:
 
   http: ^0.13.0
   fluttertoast: ^8.0.8
-  flutter_inappwebview: # 5.4.3+7 - fix xcode 14
-    git: https://github.com/inspireui/flutter_inappwebview
+  flutter_inappwebview: 5.7.2+3
 
 dev_dependencies:
   flutter_test:
